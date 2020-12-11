@@ -7,7 +7,7 @@
 // quantumultx
 // [task_local]
 // #京东宠汪汪喂食
-// 15 */1 * * * https://raw.githubusercontent.com/jfy251235529/jd_scripts/67cf871a829017a871b2d40814d4400ca3712508/jd_joy_feedPets.js, tag=京东宠汪汪喂食, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true
+// 15 */1 * * * https://raw.githubusercontent.com/jfy251235529/jd_scripts/master/jd_joy_feedPets.js, tag=京东宠汪汪喂食, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true
 // Loon
 // [Script]
 // cron "15 */1 * * *" script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_joy_feedPets.js,tag=京东宠汪汪喂食
